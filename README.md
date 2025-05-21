@@ -13,4 +13,4 @@ Sofia Sallinen ja Erica Levola
 ## Demo-video:
 
 ## Vuokaavio:
-[alt text](Vuokaavio1.png)
+(Vuokaavio1.png)
