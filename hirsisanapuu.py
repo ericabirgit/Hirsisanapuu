@@ -5,7 +5,7 @@ def hirsipuu():
 
     print("Tervetuloa hirsipuupeliin!")
     print("_ " * len(sana))
-// dasdasd
+
     while yritykset > 0:
         arvaus = input("Arvaa kirjain: ").lower()
 
