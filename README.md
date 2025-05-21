@@ -13,4 +13,4 @@ Sofia Sallinen ja Erica Levola
 ## Demo-video:
 
 ## Vuokaavio:
-(Vuokaavio1.png)
+![Vuokaavio](Vuokaavio1.png "Vuokaavio!")
