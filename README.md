@@ -9,7 +9,7 @@ Sofia: Demovideo, koodaus, suunnnittelu
 Peli on hirsisanapuu, joka on peli missä pitää arvata oikea kirjain joka kuuluu sanaan. Aina kun arvaat väärin niin yritysten määrä vähenee. Kun arvaat oikean kirjaimen kirjain kirjain/kirjaimet tulevat esiin sanan oikeille paikoille. Kun kaikki kirjaimet on arvattu, oikea sana on valmis ja voitat pelin.
 
 ## Suunnittelu
-(tekstiä)
+Toteutamme yksinkertaisen hirsisanapuu pelin sanalla "kultainennoutaja".
 
 ## Demo-video:
 [Linkki videoon](https://youtu.be/5IMQAu8pX-o)
